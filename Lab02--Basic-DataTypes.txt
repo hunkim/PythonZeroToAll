@@ -1,0 +1,2 @@
+Lab2 Basic DataTypes
+> Numbers, List, Tuple, String, etc.
