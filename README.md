@@ -4,7 +4,7 @@
 
 ### Lab1	Introduction
 ##### 	   > Keywords, Statements, Datatypes, I/O, Import, Operators
-##### 	   > Flow Control: if-else, for Loop, while Loop, break and continue, Pass
+##### 	   > Flow Control: if-else, for Loop, while Loop
 
 ### Lab2 	Basic DataTypes
 ##### 	   > Numbers, List, Tuple, String, etc.
