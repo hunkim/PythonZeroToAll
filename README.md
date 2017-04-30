@@ -3,30 +3,26 @@
 ## Table Of Contents
 
 ### Lab1	Introduction
-##### 	   > Keywords, Statements, Datatypes, I/O, Import, Operators
+##### 	   > Datatypes, I/O, Import, Operators
 ##### 	   > Flow Control: if-else, for Loop, while Loop
 
 ### Lab2 	Basic DataTypes
-##### 	   > Numbers, List, Tuple, String, etc.
+##### 	   > List, Tuple, Dictionary, Set, etc.
 
 ### Lab3	Strings
 
-### Lab4	Lists and more
-##### 	   > List, Set, Dictionary, etc.
+### Lab4	Functions
+##### 	   > Built-Ins, Python Functionals
 
-### Lab5	Functions
-##### 	   > Argument, Recursion, Anonymous Function, Modules, Package
+### Lab5	Class
+##### 	   > Object, Class, Inheritance, Overloading
 
-### Lab6	Files Input/Output
-##### 	   > File Operation, Directory, Exception
+### Lab6	Advanced Topics
+##### 	   > Closures, Decorators, etc.
 
-### Lab7	Object & Class
-##### 	   > Namespace, Class, Inheritance, Overloading
-
-### Lab8	Numpy
+### Lab7	Numpy
 
 #
-
 ## References
 ##### https://www.hackerrank.com/domains/python/
 ##### https://www.programiz.com/python-programming/
