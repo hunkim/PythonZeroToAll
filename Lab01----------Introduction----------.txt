@@ -1,3 +1,5 @@
 Lab1 Introduction
-> Keywords, Statements, Datatypes, I/O, Import, Operators
-> Flow Control: if-else, for Loop, while Loop, break and continue, Pass
+
+> Datatypes, I/O, Import, Operators
+
+> Flow Control: if-else, for Loop, while Loop
